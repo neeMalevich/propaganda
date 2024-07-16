@@ -60,3 +60,7 @@
 }
 ```
 
+![errror](https://github.com/neeMalevich/propaganda/blob/main/assets/images/error-field.png)
+
+![errror](https://github.com/neeMalevich/propaganda/blob/main/assets/images/error-mail.png)
+
