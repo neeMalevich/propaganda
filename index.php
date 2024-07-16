@@ -10,7 +10,6 @@ $pdo = $database->getConnection();
 
 $router = Router::create();
 
-$router->get('/', function () {});
 $router->post('/webhook', [UsersController::class, 'index']);
 
 $router->dispatch();
